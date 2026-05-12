@@ -58,7 +58,7 @@ export function init($extension: IPlugin, store: any) {
   virtualType({
     labelKey: 'traefik.overview',
     name:     OVERVIEW_PAGE,
-    route: {
+    route:    {
       name:   `${ PRODUCT_NAME }-c-cluster-${ OVERVIEW_PAGE }`,
       params: {
         product: PRODUCT_NAME,

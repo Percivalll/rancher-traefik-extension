@@ -20,5 +20,12 @@
     "serve-pkgs": "./node_modules/@rancher/shell/scripts/serve-pkgs",
     "publish-pkgs": "./node_modules/@rancher/shell/scripts/extension/publish",
     "parse-tag-name": "./node_modules/@rancher/shell/scripts/extension/parse-tag-name"
+  },
+  "devDependencies": {
+    "@vue/eslint-config-standard": "6.1.0",
+    "@vue/eslint-config-typescript": "7.0.0",
+    "eslint-plugin-import": "^2.32.0",
+    "eslint-plugin-node": "11.1.0",
+    "eslint-plugin-promise": "5.2.0"
   }
 }
