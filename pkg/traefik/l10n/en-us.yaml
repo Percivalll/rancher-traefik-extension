@@ -1,0 +1,12 @@
+typeLabel:
+  "traefik.io.ingressroute": "IngressRoute | IngressRoutes"
+  "traefik.io.middleware": "Middleware | Middlewares"
+  "traefik.io.traefikservice": "TraefikService | TraefikServices"
+  "traefik.io.serverstransport": "ServersTransport | ServersTransports"
+  "traefik.io.tlsoption": "TLSOption | TLSOptions"
+  "traefik.io.tlsstore": "TLSStore | TLSStores"
+  "traefik.io.ingressroutetcp": "IngressRouteTCP | IngressRouteTCP"
+  "traefik.io.ingressrouteudp": "IngressRouteUDP | IngressRouteUDP"
+
+traefik:
+  overview: "Overview"
